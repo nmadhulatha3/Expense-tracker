@@ -69,8 +69,4 @@ On first start, the server creates `server/data/expenses.db` and the required `t
 ## Repository hygiene
 `server/data/` and `node_modules/` are excluded by `.gitignore`. Do not commit database files, passwords, API keys, or other private credentials.
 
-## Demo and screenshots
-For the internship submission, run the app locally and capture genuine screenshots of: (1) dashboard summary, (2) add-transaction form, and (3) transaction history after adding sample data. Add them to a `screenshots/` folder in the public GitHub repository. Add a live demo URL here only after deploying and testing it.
 
-## Internship task
-CodeNova Full Stack Development — Task 2: Expense Tracker.
